@@ -1,0 +1,85 @@
+
+
+<!-- //////////////////////////////////// -->
+
+<div class="container mt-4">
+
+    <div class="row">
+        <div class="col">
+            <h1>
+                <span class="text-success">
+                    <i class="fa-solid fa-user"></i>
+
+                </span> &nbsp;
+                View Contact Page 
+            </h1>
+            <p class="mt-4" style="text-align: justify;">This is dummy Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam dolores repellendus necessitatibus nam eum accusantium saepe pariatur amet similique temporibus dolore ut rem suscipit soluta quibusdam, blanditiis numquam perferendis minus! elit. Officia iure voluptas fuga voluptates corporis voluptate distinctio quasi! Eius alias consequatur, saepe, ullam magnam pariatur deleniti, perspiciatis commodi porro molestias ad!</p>
+        </div>
+    </div>
+
+</div>
+
+<pre>
+    {{groupName  | json}}
+</pre>
+
+<div class="container mt-4 mb-5">
+    <div class="row border p-4 align-items-center">
+        <div class="col-lg-4 text-center">
+            <img class="mb-2" height="180px" width="200px" [src]="contact.photo" alt="contact-img">
+            <br>
+            <a routerLink="/" class="btn btn-primary "><i class="fa-solid fa-circle-arrow-left"></i>&nbsp; Back</a>
+        </div>
+        <div class="col-lg-8">
+            <ul class="list-group">
+                <li class="list-group-item">Name : <b>{{contact.name}}</b></li>
+                <li class="list-group-item">Email : <b>{{contact.email}}</b> </li>
+                <li class="list-group-item">Mobile : <b>{{contact.mobile}}</b></li>
+                <li class="list-group-item">Company : <b>{{contact.company}}</b></li>
+                <li class="list-group-item">Title : <b>{{contact.title}}</b></li>
+
+                <li class="list-group-item">Group : <b>{{groupName}}</b></li>
+            </ul>
+        </div>
+
+    </div>
+
+</div>
+
+<!-- //////////////////////////////////////////// -->
+
+<!-- 
+<div class="container-fluid">
+
+    <div class="container">
+        <div class=" bg-warning">
+            View Ganesh
+        </div>
+
+        <div class=" bg-danger">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, vel beatae asperiores minus commodi vero inventore temporibus et fuga, quis molestiae deserunt quisquam voluptatem saepe atque alias nesciunt officiis laudantium.
+        </div>
+    </div>
+
+
+    <div class=" row border border-dark">
+        <div class="col border border-dark m-1">
+            ss
+            <img src="" alt="">
+        </div>
+
+        <div class="col bg-success d-flex flex-column p-5 m-1" >
+            <input type="text" placeholder="Name"  class="form-control mt-2 me-5">
+            <input type="text" placeholder="Email" class="form-control mt-2">
+            <input type="text" placeholder="Number" class="form-control mt-2">
+            <input type="text" placeholder="Job" class="form-control mt-2">
+            <input type="text" placeholder="Address" class="form-control mt-2 mb-2">
+
+        </div>
+    </div>
+
+
+
+
+
+</div> -->

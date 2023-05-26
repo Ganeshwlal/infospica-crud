@@ -1,0 +1,92 @@
+{
+  "contacts": [
+    {
+      "id": "c1",
+      "name": "Ganesh W Lal",
+      "email": "ganesh@gmail.com",
+      "photo": "https://imgk.timesnownews.com/73027505_2435523350041800_7197995791219918035_n_1578044206__rend_1_1.jpg?tr=w-360",
+      "mobile": "7558075562",
+      "company": "W Technology",
+      "title": "Manager",
+      "groupId": "1"
+    },
+    {
+      "id": "c2",
+      "name": "Gayathri R Lal",
+      "email": "gayathri@gmail.com",
+      "photo": "https://maharashtratimes.com/thumb/98372963/shradha-kapoor-98372963.jpg?imgsize=46686&width=1200&height=900&resizemode=75",
+      "mobile": "7558075563",
+      "company": "W Technology",
+      "title": "Manager",
+      "groupId": "2"
+    },
+    {
+      "id": "c3",
+      "name": "Karthik soman",
+      "email": "karthik@gmail.com",
+      "photo": "https://static.javatpoint.com/top10-technologies/images/top-10-hollywood-actors4.png",
+      "mobile": "7558075564",
+      "company": "W Technology",
+      "title": "Manager",
+      "groupId": "3"
+    },
+    {
+      "id": "c4",
+      "name": "Vishnu",
+      "email": "vishnu@gmail.com",
+      "photo": "https://www.top10about.com/wp-content/uploads/2020/05/Robert-Downey-Jr.-700x683.jpg",
+      "mobile": "7558075565",
+      "company": "W Technology",
+      "title": "Manager",
+      "groupId": "1"
+    },
+    {
+      "id": "c5",
+      "name": "Ajay madhu",
+      "email": "ajay@gmail.com",
+      "photo": "https://www.delhi-magazine.com/wp-content/uploads/2020/05/Penelope-Cruz-most-beautiful-hollywood-celebrity-in-2020-1-e1589313367307.jpg",
+      "mobile": "7558075566",
+      "company": "W Technology",
+      "title": "Manager",
+      "groupId": "4"
+    },
+    {
+      "id": "c6",
+      "name": "Shyam",
+      "email": "shyam@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSELDfjgFTdpT5dMjueag6Q2Otjgcvg75VU6Q&usqp=CAU",
+      "mobile": "7558075567",
+      "company": "W Technology",
+      "title": "Manager",
+      "groupId": "1"
+    },
+    {
+      "id": "c7",
+      "name": "Amal",
+      "email": "amal@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLlW8NmwLk5JLS8kld0ARlC7Nb8R-Dz-DNMA&usqp=CAU",
+      "mobile": "7558075568",
+      "company": "W Technology",
+      "title": "Manager",
+      "groupId": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}

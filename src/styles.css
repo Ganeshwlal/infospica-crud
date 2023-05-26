@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Aclonica&family=Advent+Pro:wght@500&family=Angkor&family=Caveat&family=Concert+One&family=DynaPuff:wght@400;500&family=Fontdiner+Swanky&family=Fuzzy+Bubbles&family=Gemunu+Libre:wght@500&family=Itim&family=Josefin+Sans:wght@300&family=Kaisei+HarunoUmi&family=Lobster&family=Margarine&family=Marko+One&family=Noto+Serif+Gujarati:wght@400;500&family=Nova+Square&family=Orbitron:wght@500&family=Permanent+Marker&family=Potta+One&family=Red+Hat+Mono&family=Ribeye&family=Righteous&family=Rubik+Distressed&family=Satisfy&family=Signika+Negative&family=Sofia+Sans:wght@300&display=swap');
+
+body{
+    font-family: 'Sofia Sans', sans-serif;}
